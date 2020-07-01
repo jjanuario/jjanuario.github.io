@@ -4,5 +4,11 @@
 - name: English 
   level: Fluent
   
-- name: Chinese 
+- name: Chinese
+  level: Beginner
+
+- name: Deutsch 
+  level: Beginner
+  
+- name: Spanish 
   level: Beginner
