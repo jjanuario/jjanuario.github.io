@@ -1,17 +1,17 @@
-- name: Cooking
+- name: Automation
   level: 70
 
-- name: Eating
-  level: 80
-
-- name: Honest
+- name: Programmer
   level: 95
 
-- name: Confident
-  level: 75
+- name: Machine Learn
+  level: 30
 
-- name: Loyal
-  level: 95
-
-- name: Sleeping
+- name: Linear_Regression
   level: 60
+
+- name: Neural_Network
+  level: 15
+
+- name: Prohect_Manager
+  level: 80
