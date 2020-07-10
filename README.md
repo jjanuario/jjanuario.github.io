@@ -9,14 +9,14 @@ Muito obrigado ao criador do tema, pois este projeto não seria possível sem o 
 
 ** História por trás do projeto **
 
-O principal objetivo deste projeto é permitir que todos, especialmente os não programadores, possuam um site e uma plataforma para compartilhar seus conhecimentos sem precisar se preocupar com o custo de propriedade e manutenção do site. Eu ouvi muitos leitores mencionando que eles estão apaixonados pela simplicidade do meu site, especialmente e adorariam um. Eles só raciocinam que os impedem de fazê-lo é que eles não têm nenhuma experiência em programação e não são conhecedores de tecnologia. Com isso, isso me motiva a escrever um tutorial completo sobre como começar com [Jekyll] (http://melvinchng.github.io/jekyll).
+O principal objetivo deste projeto é permitir que todos, especialmente os não programadores, possuam um site e uma plataforma para compartilhar seus conhecimentos sem precisar se preocupar com o custo de propriedade e manutenção do site. Eu ouvi muitos leitores mencionando que eles estão apaixonados pela simplicidade do meu site, especialmente e adorariam um. Eles só raciocinam que os impedem de fazê-lo é que eles não têm nenhuma experiência em programação e não são conhecedores de tecnologia. Com isso, isso me motiva (melvinchng) a escrever um tutorial completo sobre como começar com [Jekyll] (http://melvinchng.github.io/jekyll).
 
 Além disso, como recém-formado, vejo a importância de possuir um site pessoal quando se trata de procurar emprego. Se você ama este projeto e gostaria de apoiá-lo, espalhe a mensagem e mantenha o rodapé como está.
 
 ** Site de exemplo **
 - Meu site pessoal
-  - [Página de destino de Melvin] (https://melvinchng.github.io)
-  - [CV de Melvin] (https://melvinchng.github.io/cv)
+  - [Página de destino de Jeferson] (https://jjanuario.github.io)
+  - [CV de Jeferson] (https://jjanuario.github.io/cv)
   - [Tutoria Ruby on Rails de Melvin] (https://melvinchng.github.io/rails)
 - Site de exemplo de Jekyll para todos
   - [Página de destino] (https://jekyll-for-everyone.github.io)
