@@ -96,4 +96,4 @@ Comunidade
 
 ### Aproveite!
 
-Como lembrete, se você ama este projeto e gostaria de apoiá-lo, espalhe a mensagem e faça um fork.
+Se você gostou deste projeto e gostaria de apoiá-lo, espalhe a mensagem e faça um fork.
