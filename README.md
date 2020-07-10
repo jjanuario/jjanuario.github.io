@@ -84,3 +84,19 @@ Enviar feedback
 Histórico
 Salvas
 Comunidade
+
+### Gitbook
+
+     Se você não usar o recurso Gitbook, remova a pasta gitbook.
+     O código fonte é armazenado em / gitbook_source_code
+     O conteúdo do livro gerado é copiado de / gitbook_source_code / _book para / gitbook.
+
+### De outros
+
+     Se você deseja substituir o ícone do site, pode usá-lo para criar um e substituir o ícone baixado em favicon.io.
+     Atualize a variável em /_config.yml. Lembre-se de substituir a variável url pelo seu URL real.
+     Se você deseja usar o Google Analytics, adicione seu número de rastreamento a /_config.yml.
+
+### Aproveite!
+
+Como lembrete, se você ama este projeto e gostaria de apoiá-lo, espalhe a mensagem e mantenha o rodapé como está.
