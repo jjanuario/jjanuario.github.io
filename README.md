@@ -1,92 +1,86 @@
-# Jekyll For Everyone
 
-Jekyll For Everyone is a package that is designed for everyone. The package contains three major components: homepage, CV, and [Gitbook](http://www.gitbook.com). The index page is a strip down version of [Jekyll Uno](https://github.com/joshgerdes/jekyll-uno) while the CV a modification of [Online CV](https://github.com/sharu725/online-cv). However, [Legacy Gitbook (v3.2.3)](https://github.com/GitbookIO/gitbook) is used instead of modern Gitbook (v4+). The main reason of using it is due to the fact that users can own their source code and edit them locally instead of doing it on the cloud. 
 
-This package is very user friendly for non-programmer as I reorganized all the files and have all the variables written in several data files. This make it them to edit without needing to go into the actual code. 
+5000/5000
+Limite de caracteres: 5000
+# Jekyll para todos
 
-Big thanks to the theme creator as it this project would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
+O Jekyll For Everyone é um pacote projetado para todos. O pacote contém três componentes principais: página inicial, CV e [Gitbook] (http://www.gitbook.com). A página de índice é uma versão simplificada do [Jekyll Uno] (https://github.com/joshgerdes/jekyll-uno) enquanto o CV é uma modificação do [Online CV] (https://github.com/sharu725/online -cv). No entanto, o [Legit Gitbook (v3.2.3)] (https://github.com/GitbookIO/gitbook) é usado em vez do Gitbook moderno (v4 +). A principal razão de usá-lo é devido ao fato de que os usuários podem possuir seu código-fonte e editá-lo localmente, em vez de fazê-lo na nuvem.
 
-**Story Behind The Project**
+Este pacote é muito amigável para não programadores, pois reorganizei todos os arquivos e tenho todas as variáveis ​​escritas em vários arquivos de dados. Isso faz com que eles editem sem precisar entrar no código real.
 
-The main purpose of this project is to allow everyone especially for non-programmer to own a website and platform to share their expertise without needing to worry about the cost of owning and maintaining their website. I heard from a lot of readers mentioning that they are in love with the simplicity of my website especially and would love to one one. They only reason that stops them from doing it is they do not have any programming experience and not a tech savvy. With that, this motivates me to write a complete tutorial on how to get started with [Jekyll](http://melvinchng.github.io/jekyll). 
+Muito obrigado ao criador do tema, pois este projeto não seria possível sem o trabalho duro deles! Você é sempre bem-vindo a contribuir com este repositório para torná-lo melhor!
 
-Also, as a fresh graduate, I see the importance of owning a personal website when it comes to job hunting. If you love this project and would like to support it, spread the message and keep the footer as in. 
+** História por trás do projeto **
 
-**Example Site**
-- My Personal Website
-  - [Melvin's landing page](https://melvinchng.github.io)
-  - [Melvin's CV](https://melvinchng.github.io/cv)
-  - [Melvin's Ruby on Rails Tuturial](https://melvinchng.github.io/rails)
-- Jekyll For Everyone Sample Website
-  - [Landing page](https://jekyll-for-everyone.github.io)
-  - [CV](https://jekyll-for-everyone.github.io/cv)
-  - [Gitbook](https://melvinchng.github.io/gitbook)
+O principal objetivo deste projeto é permitir que todos, especialmente os não programadores, possuam um site e uma plataforma para compartilhar seus conhecimentos sem precisar se preocupar com o custo de propriedade e manutenção do site. Eu ouvi muitos leitores mencionando que eles estão apaixonados pela simplicidade do meu site, especialmente e adorariam um. Eles só raciocinam que os impedem de fazê-lo é que eles não têm nenhuma experiência em programação e não são conhecedores de tecnologia. Com isso, isso me motiva a escrever um tutorial completo sobre como começar com [Jekyll] (http://melvinchng.github.io/jekyll).
 
-_Note: The content in `jekyll-for-everyone` is for illustration purpose only. It may not contain accurate information._
+Além disso, como recém-formado, vejo a importância de possuir um site pessoal quando se trata de procurar emprego. Se você ama este projeto e gostaria de apoiá-lo, espalhe a mensagem e mantenha o rodapé como está.
 
-## Features
-### Index Page
-- Name
-- Title Line
-- Secondary Information Line
-- Links to social pages
-- Links to other pages
+** Site de exemplo **
+- Meu site pessoal
+  - [Página de destino de Melvin] (https://melvinchng.github.io)
+  - [CV de Melvin] (https://melvinchng.github.io/cv)
+  - [Tutoria Ruby on Rails de Melvin] (https://melvinchng.github.io/rails)
+- Site de exemplo de Jekyll para todos
+  - [Página de destino] (https://jekyll-for-everyone.github.io)
+  - [CV] (https://jekyll-for-everyone.github.io/cv)
+  - [Gitbook] (https://melvinchng.github.io/gitbook)
+
+_Nota: O conteúdo em `jekyll-for-everyone` é apenas para fins ilustrativos. Pode não conter informações precisas._
+
+## Recursos
+### Página de índice
+- Nome
+- Linha de título
+- Linha de informação secundária
+- Links para páginas sociais
+- Links para outras páginas
 ### CV
-- Summary or Background
-- Education
-- Experiences
-- Individual Projects
-- Group Projects
-- Skill & Proficiency
-- Related Courses
-- Honors & Awards
-- Languages
-- Social Link
-- Volunteer Experiences
+- Resumo ou Histórico
+- Educação
+- Experiências
+- Projetos Individuais
+- Projetos em grupo
+- Habilidade e Proficiência
+- Cursos relacionados
+- Honras e prêmios
+- Línguas
+- Link social
+- Experiências Voluntárias
 ### Gitbook
-- Sample Gitbook
+- Exemplo de Gitbook
 
-## Installation
-### If you do not know what you are doing
-1. Refer to my [guide](http://melvinchng.github.io/jekyll). It contains single instructions that you need to follow to get started.
-### If you know what you are doing or somewhat know what to do
-**Jekyll**
-1. For first time user, you have to install Ruby and Rails. If you do not have Ruby installed, you may follow [this tutorial](http://melvinchng.github.io/rails/RubyOnRailsInstallation.html) that I wrote for Windows, Linux, and MacOS (installation videos are included).
-2. Install Jekyll by using the command `gem install jekyll`.
-3. Then, install Jekyll Sitemap and Jekyll SEO gems by using the command `gem install jekyll-sitemap` and `gem install wdm`.
-4. Start your localhost server by using the command `jekyll serve`. Make sure that you are at the root directory of your folder before using this command.
-5. Your site should be accessible at `localhost:4000`.
-6. For additional information about Jekyll, refer to the [official website](http://jekyllrb.com/). 
+## Instalação
+### Se você não sabe o que está fazendo
+1. Consulte o meu [guia] (http://melvinchng.github.io/jekyll). Ele contém instruções únicas que você precisa seguir para começar.
+### Se você sabe o que está fazendo ou sabe o que fazer
+** Jekyll **
+1. Para usuários iniciantes, você deve instalar o Ruby e o Rails. Se você não possui o Ruby instalado, siga este [tutorial] (http://melvinchng.github.io/rails/RubyOnRailsInstallation.html) que escrevi para Windows, Linux e MacOS (vídeos de instalação estão incluídos).
+2. Instale o Jekyll usando o comando `gem install jekyll`.
+3. Em seguida, instale o Jekyll Sitemap e o Jekyll SEO gems usando o comando `gem install jekyll-sitemap` e` gem install wdm`.
+4. Inicie o servidor localhost usando o comando `jekyll serve`. Verifique se você está no diretório raiz da sua pasta antes de usar este comando.
+5. Seu site deve estar acessível em `localhost: 4000`.
+6. Para informações adicionais sobre o Jekyll, consulte o [site oficial] (http://jekyllrb.com/).
 
-**Gitbook**
-1. For first time user, you have to Gitbook modules by using the command `npm install gitbook-cli -g`.
-2. Navigate to the root directory of the gitbook, `gitbook_source_code` and start the gitbook server using the command `gitbook serve`. 
-3. If there are missing some packages for gitbook, use the command `gitbook install`.
-4. Your site should be accessible at `localhost:4000`.
-5. For additional information about Gitbook, refer to the [official website](https://github.com/GitbookIO/gitbook). 
+** Gitbook **
+1. Para usuários iniciantes, você precisa dos módulos do Gitbook usando o comando `npm install gitbook-cli -g`.
+2. Navegue até o diretório raiz do gitbook, `gitbook_source_code` e inicie o servidor gitbook usando o comando` gitbook serve`.
+3. Se faltam alguns pacotes para o gitbook, use o comando `gitbook install`.
+4. Seu site deve estar acessível em `localhost: 4000`.
+5. Para obter informações adicionais sobre o Gitbook, consulte o [site oficial] (https://github.com/GitbookIO/gitbook).
 
-## How To Use
-### Index Page
-- The stylesheet, scripts, javascript for the index pages are stored at `/index_style/`.
-- The background picture for index page, named as `background-cover.jpg` can be found and replaced at `index_style/images`.
-- The profile picture for index page and cv page, named as `profile.png` can be found and replaced at `assets/images`.
-- All the data that shown in the index page are stored in `/_data/index_page.yml`. Replace all the content in the files.
+## Como usar
+### Página de índice
+- A folha de estilo, scripts, javascript para as páginas de índice são armazenadas em `/ index_style /`.
+- A imagem de fundo da página de índice, denominada `background-cover.jpg`, pode ser encontrada e substituída em` index_style / images`.
+- A imagem do perfil da página de índice e da página cv, denominada `profile.png`, pode ser encontrada e substituída em` assets / images`.
+- Todos os dados mostrados na página de índice são armazenados em `/ _data / index_page.yml`. Substitua todo o conteúdo dos arquivos.
 
 ### CV
-- The stylesheet, scripts, javascript for the cv pages are stored at `/assets/`.
-- All the data that shown in the cv are stored in `/_data/cv_NAME.yml`. Replace all the content in the files.
-- If you would like to remove a specific section in the cv, change the variable from `true` to `false` for the variable in `/_data/cv_enable_section.yml`.
-
-### Gitbook
-- If you are not going to use the Gitbook feature, remove the `gitbook` folder.
-- The source code is stored at `/gitbook_source_code`
-- The content of generated book is coped from `/gitbook_source_code/_book` to `/gitbook`.
-
-### Other
-- If you would like to replace the website icon, you can use [this](https://favicon.io/) website to create one and replace the downloaded icon at `favicon.io`.
-- Update the variable in `/_config.yml`. Remember to replace the `url` variable with your actual URL.
-- If you would like to use Google Analytics, add your tracking number to `/_config.yml`.
-
-## Enjoy!
-
-As a reminder, if you love this project and would like to support it, spread the message and keep the footer as in. 
+- A folha de estilo, scripts, javascript para as páginas cv são armazenadas em `/ assets /`.
+- Todos os dados mostrados no CV são armazenados em `/ _data / cv_NAME.yml`. Substitua todo o conteúdo dos arquivos.
+- Se você gostaria de voltar
+Enviar feedback
+Histórico
+Salvas
+Comunidade
