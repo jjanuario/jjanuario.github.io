@@ -1,7 +1,4 @@
 
-
-5000/5000
-Limite de caracteres: 5000
 # Jekyll para todos
 
 O Jekyll For Everyone é um pacote projetado para todos. O pacote contém três componentes principais: página inicial, CV e [Gitbook] (http://www.gitbook.com). A página de índice é uma versão simplificada do [Jekyll Uno] (https://github.com/joshgerdes/jekyll-uno) enquanto o CV é uma modificação do [Online CV] (https://github.com/sharu725/online -cv). No entanto, o [Legit Gitbook (v3.2.3)] (https://github.com/GitbookIO/gitbook) é usado em vez do Gitbook moderno (v4 +). A principal razão de usá-lo é devido ao fato de que os usuários podem possuir seu código-fonte e editá-lo localmente, em vez de fazê-lo na nuvem.
@@ -99,4 +96,4 @@ Comunidade
 
 ### Aproveite!
 
-Como lembrete, se você ama este projeto e gostaria de apoiá-lo, espalhe a mensagem e mantenha o rodapé como está.
+Como lembrete, se você ama este projeto e gostaria de apoiá-lo, espalhe a mensagem e faça um fork.
